@@ -1,6 +1,4 @@
-FROM node:22-bullseye-slim
-
-ENV NODE_VERSION=22.9.0
+FROM mirror.gcr.io/node:22-bullseye-slim
 
 WORKDIR /app
 
