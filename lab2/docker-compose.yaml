@@ -2,7 +2,7 @@ version: '3'
 
 services:
   game:
-    build: .
+    build: ..
     container_name: 2048-game-1
     restart: unless-stopped
     ports:
