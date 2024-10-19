@@ -1,15 +1,18 @@
-import styles from './Resume.module.css';
-import {useEffect} from 'react'
+import styles from './Resume.module.css'
+import Image from 'next/image'
 
 const Resume = () => {
-	useEffect(() => {
-		document.title = 'CV - Цветников Валериан'
-	}, [])
 
 	return (
 		<div className={styles.cvContainer}>
 			<section className={styles.header}>
-				<img src="photo.jpg" className={styles.photo}/>
+				<Image
+					src="/images/photo.jpg"
+					alt=""
+					width={150}
+					height={150}
+					className={styles.photo}
+				/>
 				<div className={styles.headerInfo}>
 					<h1>{'Цветников Валериан'}</h1>
 					<p>{'Мужчина, 19 лет, родился 16 апреля 2005'}</p>
