@@ -7,7 +7,7 @@ const Resume = () => {
 		<div className={styles.cvContainer}>
 			<section className={styles.header}>
 				<Image
-					src="/images/photo.jpg"
+					src="https://yandex-images.clstorage.net/wkZa52151/5dda44zwZP/_Sq4KrunM8hhswGUCIX2JndE66Iuxeu45s02Yqj8l7LyalWL0YBn8W-uBVB88b4aH2opvrm6LiXSGYPDbtlNGugormb45CuRN_gd2kSC_yJoD_bqLoL36u3aLT-g9MLYzkgkr7upBtwagi0deP27GgF8bqjQh21q6xmKxkWPcUT4DK0Opa1Qw2i3aY8uhfEwYhjVnxK_8PLY72Qn54aF19dkEI--qifjGL4GIEHBrjY_C2yvyrUjadAuhv14iGFv8g67La2tXPVokmqCHZLBM0si56E-r-T2__5aKMWhhcbgUym4joEE7DyJDDF99awnKgp6isOLGHj5ArvDZrJ4ZcMttByAo2nmf6NqnCKv0w5aCMqoE6Lzw8PvZR7SjbDP2ks0m6e-HtozmRQ0UvKpPjY0SrXBihhEwyKAxGSNc2fcCYI-oY5S9VSQa6gKg_wxXCnRsw2w8v_Gx2Mzzo6GwvxZNb2UnhrTC7MHBn3emDocHVuU6Z0YbsU8he18tUZZ-w6_LoO-e8pAimyrLqb3LWM76bQ1j-_W9eNfEu6jhtXabBSJvKca0CypJCxg3LItOwRou_W7D3v8O6TrXLhmedMdgTiblUjpSZF6qDiZ1ilrPOypMb7Mytv9YDr0qavi834EiqaDBOA0hTAPYN6vJQ8kb6n1nCZaxjWt3kahbEnEJKUNg7x5y1-hYq87rcA0YAjArBCnx8zD608y6LCE49d5M7WDihHYF6YsC1fSnTwqAnWKwowXfPUrk-BguHp65jK6OZGMUMNnjHyXG5z4BmIr_6ATkOzG_eZsPPCQtsLfSAGqs4Mt_SSyCQlKybERLjxvjeGVBkT5DqfsbolvXuUjgAimh3fSSYNWhiWp1CVEL-6WNYvn_f3zcQf-qJXB2kgNrpGJDNwcmxM9W9SODzITT4zfuhd68zOpwkSoT0TSMbkeprJMx2CiR6cgpsA6Zy7KtDCr6uj56183zac"
 					alt=""
 					width={150}
 					height={150}
